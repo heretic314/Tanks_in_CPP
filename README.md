@@ -1,2 +1,5 @@
-# Tanks_in_CPP
-Creating a 2 player Tanks game in C++ using the ChiliTomatoNoodle Framework for Windows DirectX
+# Tanks in C++
+
+A two player game based on the original classic game Tanks Battle City.
+The goal is for each player to destory the opponents tank.
+
